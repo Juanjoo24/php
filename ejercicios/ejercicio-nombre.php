@@ -9,14 +9,5 @@
     $nombre = "JUANILLO";
     echo "Me llamo " , $nombre;
     ?>
-    
-    <table>
-        <?php
-        $uno = "uno";   
-        $one = "one";   
-        echo "<tr> <td>$one</td><td>$uno</td></tr>"
-        
-        ?>
-    </table>
 </body>
 </html>
